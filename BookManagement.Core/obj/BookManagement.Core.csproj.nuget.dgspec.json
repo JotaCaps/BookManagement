@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.Core\\BookManagement.Core.csproj": {}
+    "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.Core\\BookManagement.Core.csproj": {
+    "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.Core\\BookManagement.Core.csproj",
+        "projectUniqueName": "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj",
         "projectName": "BookManagement.Core",
-        "projectPath": "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.Core\\BookManagement.Core.csproj",
+        "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj",
         "packagesPath": "C:\\Users\\joaos\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.Core\\obj\\",
+        "outputPath": "C:\\Estudos\\BookManagement\\BookManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

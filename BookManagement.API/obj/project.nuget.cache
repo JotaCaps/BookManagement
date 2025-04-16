@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3fP9WNP0jM=",
+  "dgSpecHash": "uqMphKFJLYM=",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.API\\BookManagement.API.csproj",
+  "projectFilePath": "C:\\Estudos\\BookManagement\\BookManagement.API\\BookManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaos\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

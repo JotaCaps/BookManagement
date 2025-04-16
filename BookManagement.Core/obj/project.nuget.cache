@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e3KVeab7C8I=",
+  "dgSpecHash": "pjcX8dPRs20=",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\.Net\\BookManagement.API\\BookManagement.Core\\BookManagement.Core.csproj",
+  "projectFilePath": "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
