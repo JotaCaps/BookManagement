@@ -1,0 +1,12 @@
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\bin\Debug\net8.0\BookManagement.Core.deps.json
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\bin\Debug\net8.0\BookManagement.Core.dll
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\bin\Debug\net8.0\BookManagement.Core.pdb
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.AssemblyInfoInputs.cache
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.AssemblyInfo.cs
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.csproj.CoreCompileInputs.cache
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.sourcelink.json
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.dll
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\refint\BookManagement.Core.dll
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\BookManagement.Core.pdb
+C:\Estudos\.Net\BookManagement.API\BookManagement.Core\obj\Debug\net8.0\ref\BookManagement.Core.dll

@@ -1,0 +1,6 @@
+C:\Estudos\.Net\BookManagement.API\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infraestructure.csproj.AssemblyReference.cache
+C:\Estudos\.Net\BookManagement.API\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\.Net\BookManagement.API\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infraestructure.AssemblyInfoInputs.cache
+C:\Estudos\.Net\BookManagement.API\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infraestructure.AssemblyInfo.cs
+C:\Estudos\.Net\BookManagement.API\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Estudos\.Net\BookManagement.API\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infraestructure.sourcelink.json
