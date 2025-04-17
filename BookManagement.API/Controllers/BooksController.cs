@@ -1,4 +1,5 @@
 ﻿using BookManagement.Application.Models;
+using BookManagement.Application.Services;
 using BookManagement.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,61 +10,53 @@ namespace BookManagement.API.Controllers
     public class BooksController : ControllerBase
     {
         private readonly BookManagementDbContext _context;
+        private readonly IBookService _service;
 
-        public BooksController(BookManagementDbContext context) 
+        public BooksController(BookManagementDbContext context, IBookService service) 
         {
             _context = context;
+            _service = service;
         }
 
         [HttpPost]
         public IActionResult Post(RegisterBookInputModel model)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            var result = _service.Register(model);
 
-            var book = model.ToEntity();
-
-            _context.Books.Add(book);
-            _context.SaveChanges();
-
-            return CreatedAtAction(nameof(GetById), new { id = book.Id }, model);
+            return CreatedAtAction(nameof(GetById), new { id = result.Data }, result);
         }
 
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            var book = _context.Books;
+            var result = _service.GetById(id);
 
-            var model = book.Where(b => b.Id == id).FirstOrDefault();
-            
-            return Ok(model);
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Ok(result);
         }
 
         [HttpGet]
         public IActionResult GetAll(string search = "")
         {
-            var books = _context.Books;
+            var result = _service.GetAll();
 
-            var model = books.Select(BookViewModel.FromEntity).ToList();
-
-            return Ok(model);
+            return Ok(result);
 
         }
         
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            var book = _context.Books.SingleOrDefault(b => b.Id == id);
+            var book = _service.Delete(id);    
 
             if (book == null)
             {
                return NoContent();
             }
-
-            _context.Books.Remove(book);
-            _context.SaveChanges();
 
             return NoContent();
         }

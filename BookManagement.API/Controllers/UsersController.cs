@@ -1,4 +1,5 @@
 ﻿using BookManagement.Application.Models;
+using BookManagement.Application.Services;
 using BookManagement.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,26 +10,20 @@ namespace BookManagement.API.Controllers
     public class UsersController : ControllerBase
     {
         private readonly BookManagementDbContext _context;
+        private readonly IUserService _service;
 
-        public UsersController(BookManagementDbContext context)
+        public UsersController(BookManagementDbContext context, IUserService service)
         {
             _context = context;
+            _service = service;
         }
 
         [HttpPost]
         public IActionResult Post(RegisterUserInputModel model)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            var result = _service.Register(model);
 
-            var user = model.ToEntity();
-
-            _context.Users.Add(user);
-            _context.SaveChanges();
-
-            return Ok(user);
+            return Ok(result);
         }
     }
 }

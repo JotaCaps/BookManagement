@@ -30,3 +30,5 @@ C:\Estudos\BookManagement\BookManagement.Infraestructure\obj\Debug\net8.0\BookMa
 C:\Estudos\BookManagement\BookManagement.Infraestructure\obj\Debug\net8.0\refint\BookManagement.Infrastructure.dll
 C:\Estudos\BookManagement\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infrastructure.pdb
 C:\Estudos\BookManagement\BookManagement.Infraestructure\obj\Debug\net8.0\ref\BookManagement.Infrastructure.dll
+C:\Estudos\BookManagement\BookManagement.Infraestructure\bin\Debug\net8.0\BookManagement.Infrastructure.runtimeconfig.json
+C:\Estudos\BookManagement\BookManagement.Infraestructure\obj\Debug\net8.0\BookManagement.Infrastructure.genruntimeconfig.cache

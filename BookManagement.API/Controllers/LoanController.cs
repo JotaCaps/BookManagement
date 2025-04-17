@@ -1,4 +1,5 @@
 ﻿using BookManagement.Application.Models;
+using BookManagement.Application.Services;
 using BookManagement.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,26 +11,20 @@ namespace BookManagement.API.Controllers
     public class LoanController : ControllerBase
     {
         private readonly BookManagementDbContext _context;
+        public readonly ILoanService _service;
 
-        public LoanController(BookManagementDbContext context)
+        public LoanController(BookManagementDbContext context, ILoanService service)
         {
             _context = context;
+            _service = service;
         }
 
         [HttpPost]
         public IActionResult Post(RegisterLoanInputModel model)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            var result = _service.Register(model);
 
-            var lending = model.ToEntity();
-
-            _context.Loans.Add(lending);
-            _context.SaveChanges();
-
-            return Ok();
+            return Ok(result);
         }
 
         [HttpPatch("{id}/return")]

@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Estudos\\BookManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640E319-A8C3-4A08-8AC1-79335F259217}|BookManagement.Core\\BookManagement.Core.csproj|c:\\estudos\\bookmanagement\\bookmanagement.core\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640E319-A8C3-4A08-8AC1-79335F259217}|BookManagement.Core\\BookManagement.Core.csproj|solutionrelative:bookmanagement.core\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD476C4-C67B-4B3B-8A58-160780F2F1DB}|BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj|c:\\estudos\\bookmanagement\\bookmanagement.infraestructure\\persistence\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD476C4-C67B-4B3B-8A58-160780F2F1DB}|BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj|solutionrelative:bookmanagement.infraestructure\\persistence\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\models\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\models\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Core\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "BookManagement.Core\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Core\\Entities\\Loan.cs",
+              "RelativeToolTip": "BookManagement.Core\\Entities\\Loan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:24:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\Persistence\\BookManagementDbContext.cs",
+              "RelativeDocumentMoniker": "BookManagement.Infraestructure\\Persistence\\BookManagementDbContext.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\Persistence\\BookManagementDbContext.cs",
+              "RelativeToolTip": "BookManagement.Infraestructure\\Persistence\\BookManagementDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:14:30.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "BookManagement.API\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:44:10.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\LoanService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\LoanService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:43:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\ILoanService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\ILoanService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\ILoanService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:42:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:35:42.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\IBookService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:04:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:02:50.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "BookManagement.API\\Program.cs",
               "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Program.cs",
               "RelativeToolTip": "BookManagement.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T22:10:24.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BookManagement.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:56:43.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ApplicationModule.cs",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\ApplicationModule.cs",
               "RelativeDocumentMoniker": "BookManagement.Application\\ApplicationModule.cs",
               "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\ApplicationModule.cs",
               "RelativeToolTip": "BookManagement.Application\\ApplicationModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T22:08:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:38:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:37:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\ResultViewModel.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ResultViewModel.cs",
+              "RelativeToolTip": "BookManagement.Application\\Models\\ResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:12:48.634Z",
               "EditorCaption": ""
             }
           ]
