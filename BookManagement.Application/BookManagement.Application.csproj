@@ -7,8 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BookManagement.Core\BookManagement.Core.csproj" />
     <ProjectReference Include="..\BookManagement.Infrastructure\BookManagement.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\BookCommands\DeleteBook\" />
+    <Folder Include="Commands\BookCommands\RegisterBook\" />
+    <Folder Include="Queries\BookQueries\GetAll\" />
+    <Folder Include="Queries\BookQueries\GetById\" />
   </ItemGroup>
 
 </Project>

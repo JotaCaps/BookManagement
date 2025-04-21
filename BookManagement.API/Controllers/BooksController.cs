@@ -9,12 +9,10 @@ namespace BookManagement.API.Controllers
     [Route("api/books")]
     public class BooksController : ControllerBase
     {
-        private readonly BookManagementDbContext _context;
         private readonly IBookService _service;
 
         public BooksController(BookManagementDbContext context, IBookService service) 
         {
-            _context = context;
             _service = service;
         }
 
