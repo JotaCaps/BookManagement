@@ -563,16 +563,16 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/9.0.3": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.3",
-          "Microsoft.Extensions.Caching.Memory": "9.0.3",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
-          "Microsoft.Extensions.Logging": "9.0.3",
-          "System.Formats.Asn1": "9.0.3",
-          "System.Text.Json": "9.0.3"
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.4",
+          "Microsoft.Extensions.Caching.Memory": "9.0.4",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.4",
+          "Microsoft.Extensions.Logging": "9.0.4",
+          "System.Formats.Asn1": "9.0.4",
+          "System.Text.Json": "9.0.4"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
@@ -1204,7 +1204,7 @@
           }
         }
       },
-      "System.Formats.Asn1/9.0.3": {
+      "System.Formats.Asn1/9.0.4": {
         "type": "package",
         "compile": {
           "lib/net8.0/_._": {
@@ -2868,10 +2868,10 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/9.0.3": {
-      "sha512": "poKK0h5fldiBkpk/L/xq9Scd4FpnnZPj0SAKArnykqSMVJErd9iKtmCG5CjCpSPHrSdEyk8Uc4WUIWJ55i4JFg==",
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.4": {
+      "sha512": "UCo6rRUIx2Rhl6xVkMPf1yL/97jcYkwrryOKB5e68YCZ7NdQyk+7wfXJzEDvkFcjTw45H5sy4/1vW6vXCs/Kag==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/9.0.3",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2879,7 +2879,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.9.0.3.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.9.0.4.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -3815,10 +3815,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Formats.Asn1/9.0.3": {
-      "sha512": "UzVZ0mGzqvpe5fbG6RKA0pEOuLsELtc5OzSqmCS/lE5sqAyLKm2IiozCHbJRoA5+EO9Wq/bGFuroYQZsbAu/bA==",
+    "System.Formats.Asn1/9.0.4": {
+      "sha512": "WklXbMuiSM9X7UyM6t9UzNnMGGO9RV3OTtLjR++mvR4fcrMnuPPH3ui+BKVe2RhmDC3Z7ytWJCl+j8KOqKsVzw==",
       "type": "package",
-      "path": "system.formats.asn1/9.0.3",
+      "path": "system.formats.asn1/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3838,7 +3838,7 @@
         "lib/net9.0/System.Formats.Asn1.xml",
         "lib/netstandard2.0/System.Formats.Asn1.dll",
         "lib/netstandard2.0/System.Formats.Asn1.xml",
-        "system.formats.asn1.9.0.3.nupkg.sha512",
+        "system.formats.asn1.9.0.4.nupkg.sha512",
         "system.formats.asn1.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4703,7 +4703,7 @@
       "BookManagement.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4"
     ]
   },
   "packageFolders": {
@@ -4773,7 +4773,7 @@
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[9.0.3, )"
+            "version": "[9.0.4, )"
           }
         },
         "imports": [

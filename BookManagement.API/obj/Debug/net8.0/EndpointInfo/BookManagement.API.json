@@ -244,7 +244,7 @@
         "required": [
           "idBook",
           "idUser",
-          "landingDate"
+          "loanDate"
         ],
         "type": "object",
         "properties": {
@@ -264,7 +264,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "landingDate": {
+          "loanDate": {
             "type": "string",
             "format": "date"
           }

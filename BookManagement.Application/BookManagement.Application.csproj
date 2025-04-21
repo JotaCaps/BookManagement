@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BookManagement.Core\BookManagement.Core.csproj" />
-    <ProjectReference Include="..\BookManagement.Infraestructure\BookManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\BookManagement.Infrastructure\BookManagement.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

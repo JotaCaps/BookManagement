@@ -164,13 +164,13 @@
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.4": {
         "type": "package"
       },
-      "Microsoft.EntityFrameworkCore.Relational/9.0.3": {
+      "Microsoft.EntityFrameworkCore.Relational/9.0.4": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.3",
-          "Microsoft.Extensions.Caching.Memory": "9.0.3",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
-          "Microsoft.Extensions.Logging": "9.0.3"
+          "Microsoft.EntityFrameworkCore": "9.0.4",
+          "Microsoft.Extensions.Caching.Memory": "9.0.4",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.4",
+          "Microsoft.Extensions.Logging": "9.0.4"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
@@ -183,16 +183,16 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/9.0.3": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.3",
-          "Microsoft.Extensions.Caching.Memory": "9.0.3",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
-          "Microsoft.Extensions.Logging": "9.0.3",
-          "System.Formats.Asn1": "9.0.3",
-          "System.Text.Json": "9.0.3"
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.4",
+          "Microsoft.Extensions.Caching.Memory": "9.0.4",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.4",
+          "Microsoft.Extensions.Logging": "9.0.4",
+          "System.Formats.Asn1": "9.0.4",
+          "System.Text.Json": "9.0.4"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
@@ -247,10 +247,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Configuration.Abstractions/9.0.3": {
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.4": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "9.0.3"
+          "Microsoft.Extensions.Primitives": "9.0.4"
         },
         "compile": {
           "lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
@@ -647,7 +647,7 @@
           }
         }
       },
-      "System.Formats.Asn1/9.0.3": {
+      "System.Formats.Asn1/9.0.4": {
         "type": "package",
         "compile": {
           "lib/net8.0/_._": {
@@ -680,7 +680,7 @@
           }
         }
       },
-      "System.IO.Pipelines/9.0.3": {
+      "System.IO.Pipelines/9.0.4": {
         "type": "package",
         "compile": {
           "lib/net8.0/System.IO.Pipelines.dll": {
@@ -931,7 +931,7 @@
           }
         }
       },
-      "System.Text.Encodings.Web/9.0.3": {
+      "System.Text.Encodings.Web/9.0.4": {
         "type": "package",
         "compile": {
           "lib/net8.0/System.Text.Encodings.Web.dll": {
@@ -953,11 +953,11 @@
           }
         }
       },
-      "System.Text.Json/9.0.3": {
+      "System.Text.Json/9.0.4": {
         "type": "package",
         "dependencies": {
-          "System.IO.Pipelines": "9.0.3",
-          "System.Text.Encodings.Web": "9.0.3"
+          "System.IO.Pipelines": "9.0.4",
+          "System.Text.Encodings.Web": "9.0.4"
         },
         "compile": {
           "lib/net8.0/System.Text.Json.dll": {
@@ -1020,7 +1020,7 @@
         "dependencies": {
           "BookManagement.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4"
         },
         "compile": {
           "bin/placeholder/BookManagement.Infrastructure.dll": {}
@@ -1285,10 +1285,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/9.0.3": {
-      "sha512": "xsS+5TM7M5f3tCSRaSbzouGCoIgD2zokQxBGXvf9z3DusRztWvT1NNT9XJaY2JoK1qEEDcHah8is6azYmpZhIg==",
+    "Microsoft.EntityFrameworkCore.Relational/9.0.4": {
+      "sha512": "OjJ+xh/wQff5b0wiC3SPvoQqTA2boZeJQf+15+3+OJPtjBKzvxuwr25QRIu1p1t+K8ryQ8pzaoZ7eOpXfNzVGA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/9.0.3",
+      "path": "microsoft.entityframeworkcore.relational/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1296,14 +1296,14 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.9.0.3.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.9.0.4.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/9.0.3": {
-      "sha512": "poKK0h5fldiBkpk/L/xq9Scd4FpnnZPj0SAKArnykqSMVJErd9iKtmCG5CjCpSPHrSdEyk8Uc4WUIWJ55i4JFg==",
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.4": {
+      "sha512": "UCo6rRUIx2Rhl6xVkMPf1yL/97jcYkwrryOKB5e68YCZ7NdQyk+7wfXJzEDvkFcjTw45H5sy4/1vW6vXCs/Kag==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/9.0.3",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1311,7 +1311,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.9.0.3.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.9.0.4.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -1371,10 +1371,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Configuration.Abstractions/9.0.3": {
-      "sha512": "q5qlbm6GRUrle2ZZxy9aqS/wWoc+mRD3JeP6rcpiJTh5XcemYkplAcJKq8lU11ZfPom5lfbZZfnQvDqcUhqD5Q==",
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.4": {
+      "sha512": "0LN/DiIKvBrkqp7gkF3qhGIeZk6/B63PthAHjQsxymJfIBcz0kbf4/p/t4lMgggVxZ+flRi5xvTwlpPOoZk8fg==",
       "type": "package",
-      "path": "microsoft.extensions.configuration.abstractions/9.0.3",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1394,7 +1394,7 @@
         "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
-        "microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -1994,10 +1994,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Formats.Asn1/9.0.3": {
-      "sha512": "UzVZ0mGzqvpe5fbG6RKA0pEOuLsELtc5OzSqmCS/lE5sqAyLKm2IiozCHbJRoA5+EO9Wq/bGFuroYQZsbAu/bA==",
+    "System.Formats.Asn1/9.0.4": {
+      "sha512": "WklXbMuiSM9X7UyM6t9UzNnMGGO9RV3OTtLjR++mvR4fcrMnuPPH3ui+BKVe2RhmDC3Z7ytWJCl+j8KOqKsVzw==",
       "type": "package",
-      "path": "system.formats.asn1/9.0.3",
+      "path": "system.formats.asn1/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2017,7 +2017,7 @@
         "lib/net9.0/System.Formats.Asn1.xml",
         "lib/netstandard2.0/System.Formats.Asn1.dll",
         "lib/netstandard2.0/System.Formats.Asn1.xml",
-        "system.formats.asn1.9.0.3.nupkg.sha512",
+        "system.formats.asn1.9.0.4.nupkg.sha512",
         "system.formats.asn1.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -2045,10 +2045,10 @@
         "system.identitymodel.tokens.jwt.nuspec"
       ]
     },
-    "System.IO.Pipelines/9.0.3": {
-      "sha512": "aP1Qh9llcEmo0qN+VKvVDHFMe5Cqpfb1VjhBO7rjmxCXtLs3IfVSOiNqqLBZ/4Qbcr4J0SDdJq9S7EKAGpnwEA==",
+    "System.IO.Pipelines/9.0.4": {
+      "sha512": "luF2Xba+lTe2GOoNQdZLe8q7K6s7nSpWZl9jIwWNMszN4/Yv0lmxk9HISgMmwdyZ83i3UhAGXaSY9o6IJBUuuA==",
       "type": "package",
-      "path": "system.io.pipelines/9.0.3",
+      "path": "system.io.pipelines/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2068,7 +2068,7 @@
         "lib/net9.0/System.IO.Pipelines.xml",
         "lib/netstandard2.0/System.IO.Pipelines.dll",
         "lib/netstandard2.0/System.IO.Pipelines.xml",
-        "system.io.pipelines.9.0.3.nupkg.sha512",
+        "system.io.pipelines.9.0.4.nupkg.sha512",
         "system.io.pipelines.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -2651,10 +2651,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Text.Encodings.Web/9.0.3": {
-      "sha512": "5L+iI4fBMtGwt4FHLQh40/rgdbxnw6lHaLkR3gbaHG97TohzUv+z/oP03drsTR1lKCLhOkp40cFnHYOQLtpT5A==",
+    "System.Text.Encodings.Web/9.0.4": {
+      "sha512": "V+5cCPpk1S2ngekUs9nDrQLHGiWFZMg8BthADQr+Fwi59a8DdHFu26S2oi9Bfgv+d67bqmkPqctJXMEXiimXUg==",
       "type": "package",
-      "path": "system.text.encodings.web/9.0.3",
+      "path": "system.text.encodings.web/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2678,15 +2678,15 @@
         "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.xml",
         "runtimes/browser/lib/net9.0/System.Text.Encodings.Web.dll",
         "runtimes/browser/lib/net9.0/System.Text.Encodings.Web.xml",
-        "system.text.encodings.web.9.0.3.nupkg.sha512",
+        "system.text.encodings.web.9.0.4.nupkg.sha512",
         "system.text.encodings.web.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Text.Json/9.0.3": {
-      "sha512": "r2JRkLjsYrq5Dpo7+y3Wa73OfirZPdVhxiTJWwZ+oJM7FOAe0LkM3GlH+pgkNRdd1G1kwUbmRCdmh4uoaWwu1g==",
+    "System.Text.Json/9.0.4": {
+      "sha512": "pYtmpcO6R3Ef1XilZEHgXP2xBPVORbYEzRP7dl0IAAbN8Dm+kfwio8aCKle97rAWXOExr292MuxWYurIuwN62g==",
       "type": "package",
-      "path": "system.text.json/9.0.3",
+      "path": "system.text.json/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2749,7 +2749,7 @@
         "lib/net9.0/System.Text.Json.xml",
         "lib/netstandard2.0/System.Text.Json.dll",
         "lib/netstandard2.0/System.Text.Json.xml",
-        "system.text.json.9.0.3.nupkg.sha512",
+        "system.text.json.9.0.4.nupkg.sha512",
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -2821,8 +2821,8 @@
     },
     "BookManagement.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../BookManagement.Infraestructure/BookManagement.Infrastructure.csproj",
-      "msbuildProject": "../BookManagement.Infraestructure/BookManagement.Infrastructure.csproj"
+      "path": "../BookManagement.Infrastructure/BookManagement.Infrastructure.csproj",
+      "msbuildProject": "../BookManagement.Infrastructure/BookManagement.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2867,8 +2867,8 @@
             "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj": {
               "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj"
             },
-            "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj"
+            "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj"
             }
           }
         }

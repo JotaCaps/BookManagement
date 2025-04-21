@@ -3,7 +3,7 @@ using BookManagement.Infrastructure.Persistence;
 
 namespace BookManagement.Application.Services
 {
-    internal class UserService : IUserService
+    public class UserService : IUserService
     {
         private readonly BookManagementDbContext _context;
 

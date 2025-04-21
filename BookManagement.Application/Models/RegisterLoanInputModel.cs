@@ -17,7 +17,7 @@ namespace BookManagement.Application.Models
 
         [Required(ErrorMessage = "A data do empréstimo é obrigatória")]
         [DataType(DataType.Date, ErrorMessage = "Data de empréstimo inválida")]
-        public DateTime LandingDate { get; set; }
+        public DateTime LoanDate { get; set; }
 
         public Loan ToEntity()
             => new(Id, IdUser, IdBook);

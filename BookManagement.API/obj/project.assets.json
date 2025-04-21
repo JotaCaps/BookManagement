@@ -1713,7 +1713,7 @@
         "dependencies": {
           "BookManagement.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4"
         },
         "compile": {
           "bin/placeholder/BookManagement.Infrastructure.dll": {}
@@ -5168,8 +5168,8 @@
     },
     "BookManagement.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../BookManagement.Infraestructure/BookManagement.Infrastructure.csproj",
-      "msbuildProject": "../BookManagement.Infraestructure/BookManagement.Infrastructure.csproj"
+      "path": "../BookManagement.Infrastructure/BookManagement.Infrastructure.csproj",
+      "msbuildProject": "../BookManagement.Infrastructure/BookManagement.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5221,8 +5221,8 @@
             "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj": {
               "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj"
             },
-            "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj"
+            "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj"
             }
           }
         }

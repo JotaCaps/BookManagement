@@ -45,7 +45,7 @@ namespace BookManagement.API.Controllers
             loan.RegisterReturn(model.ReturnDate);
             _context.SaveChanges();
 
-            var diasDeAtraso = (model.ReturnDate - loan.LandingDate).Days;
+            var diasDeAtraso = (model.ReturnDate - loan.LoanDate).Days;
 
             if (diasDeAtraso > 1)
             {

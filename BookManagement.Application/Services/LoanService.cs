@@ -3,7 +3,7 @@ using BookManagement.Infrastructure.Persistence;
 
 namespace BookManagement.Application.Services
 {
-    internal class LoanService : ILoanService
+    public class LoanService : ILoanService
     {
         private readonly BookManagementDbContext _context;
 
@@ -14,10 +14,11 @@ namespace BookManagement.Application.Services
         public ResultViewModel<int> Register(RegisterLoanInputModel model)
         {
 
-            var lending = model.ToEntity();
+            var loan = model.ToEntity();
 
-            _context.Loans.Add(lending);
-            return ResultViewModel<int>.Success(lending.Id);
+            _context.Loans.Add(loan);
+            _context.SaveChanges();
+            return ResultViewModel<int>.Success(loan.Id);
         }
 
         public ResultViewModel<string> Return(int id, ReturnBookInputModel model)
@@ -37,7 +38,7 @@ namespace BookManagement.Application.Services
             loan.RegisterReturn(model.ReturnDate);
             _context.SaveChanges();
 
-            var diasDeAtraso = (model.ReturnDate - loan.LandingDate).Days;
+            var diasDeAtraso = (model.ReturnDate - loan.LoanDate).Days;
 
             if (diasDeAtraso > 1)
             {

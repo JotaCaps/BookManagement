@@ -349,10 +349,10 @@ C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets\ms
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagement.API.props
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagement.API.props
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\BookMana.AFAFD8CC.Up2Date
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\BookManagement.API.dll
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\refint\BookManagement.API.dll
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\BookManagement.API.pdb
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\BookManagement.API.genruntimeconfig.cache
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\ref\BookManagement.API.dll
+C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
