@@ -1,6 +1,6 @@
 ﻿namespace BookManagement.Application.Models
 {
-    public class ReturnBookInputModel
+    public class ReturnBookImputModel
     {
         public DateTime ReturnDate { get; set; }
     }

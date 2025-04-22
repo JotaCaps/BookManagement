@@ -1,6 +1,9 @@
-﻿using BookManagement.Application.Models;
+﻿using BookManagement.Application.Commands.BookCommands.DeleteBook;
+using BookManagement.Application.Commands.BookCommands.RegisterBook;
+using BookManagement.Application.Queries.BookQueries.GetAllBooks;
+using BookManagement.Application.Queries.BookQueries.GetBookById;
 using BookManagement.Application.Services;
-using BookManagement.Infrastructure.Persistence;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookManagement.API.Controllers
@@ -10,24 +13,26 @@ namespace BookManagement.API.Controllers
     public class BooksController : ControllerBase
     {
         private readonly IBookService _service;
+        private readonly IMediator _mediator;
 
-        public BooksController(BookManagementDbContext context, IBookService service) 
+        public BooksController(IBookService service, IMediator mediator) 
         {
             _service = service;
+            _mediator = mediator;
         }
 
         [HttpPost]
-        public IActionResult Post(RegisterBookInputModel model)
+        public async Task<IActionResult> Post(RegisterBookCommand command)
         {
-            var result = _service.Register(model);
+            var result = await _mediator.Send(command);
 
-            return CreatedAtAction(nameof(GetById), new { id = result.Data }, result);
+            return CreatedAtAction(nameof(GetById), new { id = result.Data }, command);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
-            var result = _service.GetById(id);
+            var result = await _mediator.Send(new GetBookByIdQuery(id)); 
 
             if (!result.IsSuccess)
             {
@@ -38,22 +43,22 @@ namespace BookManagement.API.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAll(string search = "")
+        public async Task<IActionResult> GetAll(string search = "")
         {
-            var result = _service.GetAll();
+            var result = _mediator.Send(new GetAllBooksQuery());
 
             return Ok(result);
 
         }
         
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
-        {
-            var book = _service.Delete(id);    
+        public async Task<IActionResult> Delete(int id)
+        {    
+            var book = await _mediator.Send(new DeleteBookCommand(id));    
 
             if (book == null)
             {
-               return NoContent();
+               return BadRequest();
             }
 
             return NoContent();

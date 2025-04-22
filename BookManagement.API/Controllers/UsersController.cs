@@ -1,6 +1,8 @@
-﻿using BookManagement.Application.Models;
+﻿using BookManagement.Application.Commands.UserCommands.RegisterUser;
+using BookManagement.Application.Models;
 using BookManagement.Application.Services;
 using BookManagement.Infrastructure.Persistence;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookManagement.API.Controllers
@@ -9,19 +11,19 @@ namespace BookManagement.API.Controllers
     [Route("api/users")]
     public class UsersController : ControllerBase
     {
-        private readonly BookManagementDbContext _context;
         private readonly IUserService _service;
+        private readonly IMediator _mediator;
 
-        public UsersController(BookManagementDbContext context, IUserService service)
+        public UsersController(IUserService service, IMediator mediator)
         {
-            _context = context;
             _service = service;
+            _mediator = mediator;
         }
 
         [HttpPost]
-        public IActionResult Post(RegisterUserInputModel model)
+        public async Task<IActionResult> Post(RegisterUserCommand command)
         {
-            var result = _service.Register(model);
+            var result = await _mediator.Send(command);
 
             return Ok(result);
         }

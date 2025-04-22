@@ -356,3 +356,5 @@ C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\BookManagement.API
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\BookManagement.API.genruntimeconfig.cache
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\ref\BookManagement.API.dll
 C:\Estudos\BookManagement\BookManagement.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Estudos\BookManagement\BookManagement.API\bin\Debug\net8.0\MediatR.dll
+C:\Estudos\BookManagement\BookManagement.API\bin\Debug\net8.0\MediatR.Contracts.dll

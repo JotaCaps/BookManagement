@@ -15,11 +15,4 @@
     <ProjectReference Include="..\BookManagement.Infrastructure\BookManagement.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\BookCommands\DeleteBook\" />
-    <Folder Include="Commands\BookCommands\RegisterBook\" />
-    <Folder Include="Queries\BookQueries\GetAll\" />
-    <Folder Include="Queries\BookQueries\GetById\" />
-  </ItemGroup>
-
 </Project>

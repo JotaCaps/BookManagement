@@ -1,6 +1,9 @@
-﻿using BookManagement.Application.Models;
+﻿using BookManagement.Application.Commands.LoanCommands.RegisterLoanCommand;
+using BookManagement.Application.Commands.LoanCommands.RegisterReturnCommand;
+using BookManagement.Application.Models;
 using BookManagement.Application.Services;
 using BookManagement.Infrastructure.Persistence;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -10,51 +13,29 @@ namespace BookManagement.API.Controllers
     [Route("api/lendings")]
     public class LoanController : ControllerBase
     {
-        private readonly BookManagementDbContext _context;
         public readonly ILoanService _service;
+        public readonly IMediator _mediator;
 
-        public LoanController(BookManagementDbContext context, ILoanService service)
+        public LoanController(ILoanService service, IMediator mediator)
         {
-            _context = context;
             _service = service;
+            _mediator = mediator;
         }
 
         [HttpPost]
-        public IActionResult Post(RegisterLoanInputModel model)
+        public async Task<IActionResult> Post(RegisterLoanCommand model)
         {
-            var result = _service.Register(model);
+            var result = await _mediator.Send(model);
 
             return Ok(result);
         }
 
         [HttpPatch("{id}/return")]
-        public IActionResult RegisterReturn(int id, [FromBody] ReturnBookInputModel model)
+        public async Task<IActionResult> RegisterReturn(int id, [FromBody] RegisterReturnCommand command)
         {
-            var loan = _context.Loans.SingleOrDefault(l => l.Id == id);
+            var result = await _mediator.Send(command);
 
-            if (loan == null)
-            {
-                return NotFound("Empréstimo não encontrado");
-            }
-
-            if (loan.ReturnDate != null)
-            {
-                return BadRequest("O livro já foi devolvido");
-            }
-
-            loan.RegisterReturn(model.ReturnDate);
-            _context.SaveChanges();
-
-            var diasDeAtraso = (model.ReturnDate - loan.LoanDate).Days;
-
-            if (diasDeAtraso > 1)
-            {
-                return Ok($"Livro devolvido com {diasDeAtraso - 1} dias de atraso");
-            }
-            else
-            {
-                return Ok("Devolução registrada no prazo");
-            }
+            return Ok(result);          
         }
     }
 }

@@ -7,20 +7,100 @@
       "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\models\\returnbookinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\models\\returnbookinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\models\\registerloaninputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\models\\registerloaninputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\loancommands\\registerreturncommand\\registerreturnhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\loancommands\\registerreturncommand\\registerreturnhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\loancommands\\registerreturncommand\\registerreturncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\loancommands\\registerreturncommand\\registerreturncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\loancommands\\registerloancommand\\registerloancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\loancommands\\registerloancommand\\registerloancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\loancommands\\registerloancommand\\registerloanhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\loancommands\\registerloancommand\\registerloanhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\models\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\models\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\models\\registerloaninputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\models\\registerloaninputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\usercommands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\usercommands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\bookcommands\\registerbook\\registerbookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\bookcommands\\registerbook\\registerbookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\usercommands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\usercommands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\bookcommands\\registerbook\\registerbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\bookcommands\\registerbook\\registerbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\bookcommands\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\bookcommands\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\queries\\bookqueries\\getbookbyid\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\queries\\bookqueries\\getbookbyid\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\queries\\bookqueries\\getbookbyid\\getbookbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\queries\\bookqueries\\getbookbyid\\getbookbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\queries\\bookqueries\\getallbooks\\getallbookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\queries\\bookqueries\\getallbooks\\getallbookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\queries\\bookqueries\\getallbooks\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\queries\\bookqueries\\getallbooks\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\commands\\bookcommands\\deletebook\\deletebookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\commands\\bookcommands\\deletebook\\deletebookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\bookmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -37,22 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E640E319-A8C3-4A08-8AC1-79335F259217}|BookManagement.Core\\BookManagement.Core.csproj|c:\\estudos\\bookmanagement\\bookmanagement.core\\bookmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E640E319-A8C3-4A08-8AC1-79335F259217}|BookManagement.Core\\BookManagement.Core.csproj|solutionrelative:bookmanagement.core\\bookmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|c:\\estudos\\bookmanagement\\bookmanagement.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FC7C88-0C8C-4ADC-8F2E-5915F2AF8270}|BookManagement.Application\\BookManagement.Application.csproj|solutionrelative:bookmanagement.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|solutionrelative:bookmanagement.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A84C7E01-B587-461C-AAF3-BFF9B514D81E}|BookManagement.API\\BookManagement.API.csproj|c:\\estudos\\bookmanagement\\bookmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,84 +138,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReturnBookInputModel.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ReturnBookInputModel.cs",
-              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\ReturnBookInputModel.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ReturnBookInputModel.cs",
-              "RelativeToolTip": "BookManagement.Application\\Models\\ReturnBookInputModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\ILoanService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\ILoanService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\ILoanService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:38:27.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultViewModel.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ResultViewModel.cs",
-              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\ResultViewModel.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ResultViewModel.cs",
-              "RelativeToolTip": "BookManagement.Application\\Models\\ResultViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:38:16.133Z",
+              "WhenOpened": "2025-04-22T20:24:52.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RegisterLoanInputModel.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
-              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
-              "RelativeToolTip": "BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Title": "RegisterReturnHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:37:41.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookManagement.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
-              "RelativeToolTip": "BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T20:30:26.419Z",
+              "WhenOpened": "2025-04-22T20:05:10.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookManagement.Application.csproj",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\BookManagement.Application.csproj",
-              "RelativeDocumentMoniker": "BookManagement.Application\\BookManagement.Application.csproj",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\BookManagement.Application.csproj*",
-              "RelativeToolTip": "BookManagement.Application\\BookManagement.Application.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T20:29:02.905Z",
+              "Title": "RegisterReturnCommand.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnCommand.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnCommand.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnCommand.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\LoanCommands\\RegisterReturnCommand\\RegisterReturnCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:03:00.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookManagement.API\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwD0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "BookManagement.API\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:23:09.801Z",
+              "WhenOpened": "2025-04-18T20:23:20.648Z",
               "EditorCaption": ""
             },
             {
@@ -162,14 +200,298 @@
               "RelativeDocumentMoniker": "BookManagement.Application\\Services\\LoanService.cs",
               "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\LoanService.cs",
               "RelativeToolTip": "BookManagement.Application\\Services\\LoanService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwC0AAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T20:09:51.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnBookInputModel.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ReturnBookInputModel.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\ReturnBookInputModel.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ReturnBookInputModel.cs",
+              "RelativeToolTip": "BookManagement.Application\\Models\\ReturnBookInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:38:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterLoanInputModel.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
+              "RelativeToolTip": "BookManagement.Application\\Models\\RegisterLoanInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:37:41.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:23:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "RegisterLoanCommand.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanCommand.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanCommand.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanCommand.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:58:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterLoanHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\LoanCommands\\RegisterLoanCommand\\RegisterLoanHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:00:14.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Models\\ResultViewModel.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Models\\ResultViewModel.cs",
+              "RelativeToolTip": "BookManagement.Application\\Models\\ResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:38:16.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:43:17.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BookManagement.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:23:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:09:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterBookHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:13:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\UserCommands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:40:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterBookCommand.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookCommand.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookCommand.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookCommand.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\BookCommands\\RegisterBook\\RegisterBookCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:09:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationModule.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\ApplicationModule.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\ApplicationModule.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\ApplicationModule.cs",
+              "RelativeToolTip": "BookManagement.Application\\ApplicationModule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:22:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetBookByIdQuery.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdQuery.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdQuery.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdQuery.cs",
+              "RelativeToolTip": "BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:14:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:24:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetBookByIdHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Queries\\BookQueries\\GetBookById\\GetBookByIdHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:15:45.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "BookManagement.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:09:43.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllBooksHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:05:21.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllBooksQuery.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "RelativeToolTip": "BookManagement.Application\\Queries\\BookQueries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:01:24.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteBookHandler.cs",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookHandler.cs",
+              "RelativeDocumentMoniker": "BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookHandler.cs",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookHandler.cs",
+              "RelativeToolTip": "BookManagement.Application\\Commands\\BookCommands\\DeleteBook\\DeleteBookHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:27:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\BookManagement.Application.csproj",
+              "RelativeDocumentMoniker": "BookManagement.Application\\BookManagement.Application.csproj",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\BookManagement.Application.csproj",
+              "RelativeToolTip": "BookManagement.Application\\BookManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T20:29:02.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
+              "RelativeToolTip": "BookManagement.Infrastructure\\BookManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T20:30:26.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "BookManagement.Core.csproj",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Core\\BookManagement.Core.csproj",
               "RelativeDocumentMoniker": "BookManagement.Core\\BookManagement.Core.csproj",
@@ -177,25 +499,11 @@
               "RelativeToolTip": "BookManagement.Core\\BookManagement.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T20:30:13.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T20:30:13.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\UserService.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "BookManagement.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:09:56.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "BookManagement.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj",
               "RelativeDocumentMoniker": "BookManagement.Infraestructure\\BookManagement.Infrastructure.csproj",
@@ -206,20 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "BookManagement.Application\\Services\\BookService.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.Application\\Services\\BookService.cs",
-              "RelativeToolTip": "BookManagement.Application\\Services\\BookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:09:43.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "BookManagement.API.csproj",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\BookManagement.API.csproj",
               "RelativeDocumentMoniker": "BookManagement.API\\BookManagement.API.csproj",
@@ -227,38 +522,11 @@
               "RelativeToolTip": "BookManagement.API\\BookManagement.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T20:00:57.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T20:00:57.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoanController.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\LoanController.cs",
-              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\LoanController.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\LoanController.cs",
-              "RelativeToolTip": "BookManagement.API\\Controllers\\LoanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:23:20.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BookManagement.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Estudos\\BookManagement\\BookManagement.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "BookManagement.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:23:33.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "BookManagement.API\\Program.cs",
@@ -266,12 +534,11 @@
               "RelativeToolTip": "BookManagement.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T19:55:09.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T19:55:09.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Estudos\\BookManagement\\BookManagement.Core\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "BookManagement.Core\\Entities\\Book.cs",
@@ -279,8 +546,7 @@
               "RelativeToolTip": "BookManagement.Core\\Entities\\Book.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAxwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T19:50:13.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T19:50:13.071Z"
             }
           ]
         }

@@ -1,4 +1,5 @@
-﻿using BookManagement.Application.Models;
+﻿using BookManagement.Application.Commands.LoanCommands.RegisterReturnCommand;
+using BookManagement.Application.Models;
 using BookManagement.Infrastructure.Persistence;
 
 namespace BookManagement.Application.Services
@@ -21,7 +22,7 @@ namespace BookManagement.Application.Services
             return ResultViewModel<int>.Success(loan.Id);
         }
 
-        public ResultViewModel<string> Return(int id, ReturnBookInputModel model)
+        public ResultViewModel<string> Return(int id, ReturnBookImputModel model)
         {
             var loan = _context.Loans.SingleOrDefault(l => l.Id == id);
 
